@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrew Mponin 👋</h1>
+<h1 align="center">Hi, I'm  Mponin 👋</h1>
 <h3 align="center">Backend & Applied AI Systems Engineer</h3>
 
 <p align="center">
