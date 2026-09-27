@@ -2,7 +2,7 @@
 <h3 align="center">Backend & Applied AI Systems Engineer</h3>
 
 <p align="center">
-I build production-grade intelligent software — bridging robust backend architecture (high-throughput, async processing, strict data contracts) with cutting-edge AI integrations.
+I build production-grade intelligent software bridging robust backend architecture (high-throughput, async processing, strict data contracts) with cutting-edge AI integrations.
 </p>
 
 <p align="center">
